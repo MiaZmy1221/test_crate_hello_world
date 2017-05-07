@@ -1,3 +1,6 @@
+//! A Simple Hello World Crate
+
+/// This function returns the greeting; Hello, world!
 pub fn hello() -> String {
 	("Hello, world!").to_string()
 }
