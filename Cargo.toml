@@ -1,11 +1,11 @@
 [package]
-name = "test_crate_hello_world"
-version = "0.1.2"
-authors = ["Dumindu Madunuwan"]
+name = "test_crate_hello_world_cp"
+version = "0.1.0"
+authors = ["mengya <zhang.9407@osu.edu>"]
 
 description = "A Simple Hello World Crate"
-repository = "https://github.com/dumindu/test_crate_hello_world"
-keywords = ["hello", "world"]
-license = "Apache-2.0"
 
-[dependencies]
+repository = "https://github.com/MiaZmy1221/test_crate_hello_world.git"
+
+keywords = ["hello", "world"]
+
