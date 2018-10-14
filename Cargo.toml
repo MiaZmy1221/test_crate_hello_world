@@ -9,3 +9,7 @@ repository = "https://github.com/MiaZmy1221/test_crate_hello_world.git"
 
 keywords = ["hello", "world"]
 
+license = "Apache-2.0"
+
+[dependencies]
+
